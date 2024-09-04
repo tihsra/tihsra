@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tihsra
 - 👀 I’m interested in DSA, web dev, android dev.
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me at https://www.linkedin.com/in/arshit-sharma-680611256/
+- 📫 Reach me at https://www.linkedin.com/in/arshit-sharma-680611256/
 - 😄 Pronouns: He/Him
 
 
