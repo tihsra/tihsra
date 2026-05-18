@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:arshit.sharma2023@vitstudent.ac.in">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://github.com/tihsra">GitHub</a> &nbsp;|&nbsp;
 </p>
 
 ---
@@ -16,7 +15,3 @@
 **Tools:** Git, Linux, VS Code
 
 ---
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/6e40c9/tihsra" alt="Arshit's GitHub Contribution Chart" width="100%" />
-</p>
