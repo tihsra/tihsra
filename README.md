@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @tihsra
-- 👀 I’m interested in DSA, web dev, android dev.
-- 🌱 I’m currently learning DSA
-- 📫 Reach me at https://www.linkedin.com/in/arshit-sharma-680611256/
-- 😄 Pronouns: He/Him
+<h1 align="center">Hi, I'm Arshit Sharma 👋</h1>
 
+<p align="center">
+  B.Tech Electronics & Computer Engineering @ VIT Chennai &nbsp;•&nbsp; 2023–2027
+</p>
 
-<!---
-tihsra/tihsra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="mailto:arshit.sharma2023@vitstudent.ac.in">📧 Email</a> &nbsp;|&nbsp;
+  <a href="https://github.com/tihsra">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/u/tihsra">LeetCode</a> &nbsp;|&nbsp;
+  <a href="https://codeforces.com/profile/tihsra">Codeforces</a> &nbsp;|&nbsp;
+  <a href="https://www.codechef.com/users/stihsra">CodeChef</a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:** C++, Java, Python, JavaScript, C  
+**Frontend:** React, Redux, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB, MySQL  
+**Tools:** Git, Linux, VS Code
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tihsra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tihsra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
