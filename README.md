@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages:** C++, Java, Python, JavaScript, C  
 **Frontend:** React, Redux, Tailwind CSS  
@@ -22,8 +22,10 @@
 **Tools:** Git, Linux, VS Code
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tihsra&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tihsra&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tihsra&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=tihsra&style=flat-square&color=blue" alt="Profile views" />
 </p>
