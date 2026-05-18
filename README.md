@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="mailto:arshit.sharma2023@vitstudent.ac.in">📧 Email</a>;
+  <a href="mailto:arshit.sharma2023@vitstudent.ac.in">📧 Email</a>
 </p>
 
 ---
