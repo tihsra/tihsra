@@ -22,9 +22,10 @@
 
 ### About Me
 
+- 🧩 Active on **Codeforces, CodeChef, and LeetCode** — always down to discuss DSA/CP problems, feel free to reach out
 - 🔧 I like building things **from scratch** — databases, compilers, and streaming platforms — to actually understand how systems work under the hood
 - 🌱 Deep-diving into **distributed systems, networking internals, and compiler design**
-- 💬 Ask me about **Redis internals, JWT auth, or React state management**
+- 💬 Ask me about **Redis internals, Compilers, or React state management**
 
 ---
 
@@ -61,13 +62,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tihsra&show_icons=true&theme=default&hide_border=true" alt="Arshit's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tihsra&hide_border=true" alt="Arshit's GitHub streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tihsra&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
 
 ---
 
